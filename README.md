@@ -5,3 +5,6 @@
   
   
   ![code running](https://github.com/gitCaikeMachado/first-site-attempt/blob/main/code-working.gif)
+  
+  
+    for some unknown reason the code started working magically, thank god?
